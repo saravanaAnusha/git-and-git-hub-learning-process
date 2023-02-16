@@ -4,3 +4,5 @@ request
 fetch
 stash
 cherrypick
+squah 
+revert
