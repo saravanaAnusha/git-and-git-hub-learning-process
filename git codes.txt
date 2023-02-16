@@ -4,3 +4,7 @@ request
 fetch
 stash
 cherrypick
+squash 
+revert
+reset
+align
