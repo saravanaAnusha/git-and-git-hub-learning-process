@@ -3,4 +3,6 @@ squash
 revert
 reset
 align
+origin 
+head 
 
